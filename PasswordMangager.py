@@ -3,7 +3,7 @@ import string
 import secrets
 import win32crypt
 from cryptography.fernet import Fernet
-d
+
 #Génération de clé de chiffrement qui sera stocké
 #Chiffrement d'un mot de passe choisi par l'utilisateur
 #création et chiffrement d'un mot de passe généré
